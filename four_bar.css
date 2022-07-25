@@ -92,8 +92,8 @@ body {
 }
 
 #assembly{
-    stroke: hsl(219, 85%, 52%);
-    background: rgb(171, 227, 125);
+    stroke: hsl(0, 0%, 0%);
+    background: rgb(106, 190, 225);
     stroke-width: 7.5px;
     fill: white;
     position: relative;
